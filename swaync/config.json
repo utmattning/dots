@@ -1,0 +1,8 @@
+{
+  "style": "~/.config/swaync/style.css",
+  "app-settings": {
+    "Spotify": {
+      "ignore": true
+    }
+  }
+}

@@ -1,0 +1,36 @@
+* {
+    all: unset;
+    font-family: JetBrains Mono, sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.notification-row {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 12px;
+    margin: 6px;
+    padding: 10px;
+}
+
+.notification {
+    background-color: transparent;
+}
+
+.notification-title {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.notification-body {
+    color: #dddddd;
+}
+
+.control-center {
+    background-color: rgba(0, 0, 0, 0.9);
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.blank-window {
+    background-color: transparent;
+}
