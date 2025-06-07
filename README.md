@@ -1,4 +1,6 @@
-**🌟 My regular and minimalist Desktop**
+<h1>🌟 My regular and minimalist Desktop</h1>
+
+
 
 • WM: Hyprland [🪟]
 
