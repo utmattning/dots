@@ -14,4 +14,5 @@
 
 • Theme: Graphite-dark [👀]
 
-![2025-06-07-214550_hyprshot](https://github.com/user-attachments/assets/6d40e730-7374-49a2-9f2d-a703d2ea4b56)
+
+![2025-06-07-214858_hyprshot](https://github.com/user-attachments/assets/f5cc7058-c4b3-4570-9eab-9db422df0deb)
